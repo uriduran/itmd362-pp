@@ -56,7 +56,9 @@ First, you need to install Git, if you don’t have it already.
 1. Copy below the output from `git version`:
 	version 1.9.1
 
-2. Copy below the output from `git config --global --list`:
+2. Copy below the output from `git config --global –list`:
+	user.name=Uriel Duran
+	user.email=uduran12@gmail.com
 
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
