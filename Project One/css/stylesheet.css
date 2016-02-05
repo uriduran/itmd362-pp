@@ -26,11 +26,7 @@ nav ul {
     nav ul li {
       display: inline-block;
       list-style-type: none;
-      
-      -webkit-transition: all 0.2s;
-        -moz-transition: all 0.2s;
-        -ms-transition: all 0.2s;
-        -o-transition: all 0.2s;
+      /*Thanks to google for the help with color transitions*/
         transition: all 0.2s; 
     }
 /*Change padding between menus and letter color */
@@ -43,7 +39,7 @@ nav ul {
       }
 /*Changes the color when mouse over */
         nav > ul > li:hover {
-          background-color: rgb( 40, 44, 47 );
+          background-color: black;
         }
         
 /*Setting up the form layout*/
