@@ -63,3 +63,12 @@ form {
   letter-spacing: 5px;
   padding-top: 10px;
 }
+
+/*Changing the font characteristics to the description*/
+.description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.3em;
+  margin: -2px 0 0px;
+  padding: 0 10% 0 10%
+}
