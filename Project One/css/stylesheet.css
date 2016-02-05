@@ -55,3 +55,11 @@ form {
   border-radius: 5px 5px 5px 5px;
   min-width: 10%
 }
+
+/*Make the header bigger and all uppercase letters. Changing some spacing as well. And add some padding*/
+.header {
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding-top: 10px;
+}
