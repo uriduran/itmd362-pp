@@ -108,4 +108,8 @@ input {
   cursor: pointer;
   transition: background .3s ease-in-out;
 }
+/*Set color for mouseover change*/
+#submit:hover {
+  background: grey;
+}
   
