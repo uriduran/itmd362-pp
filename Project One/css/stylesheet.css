@@ -72,3 +72,9 @@ form {
   margin: -2px 0 0px;
   padding: 0 10% 0 10%
 }
+
+/*BUTTON AND FIELD PROPERTIES*/
+.fields {
+  align-items: center;
+  padding-bottom: 5%;
+}
