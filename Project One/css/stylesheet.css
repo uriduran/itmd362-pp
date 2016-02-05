@@ -1,3 +1,15 @@
+/*Set page wide font and align everything to the center. Added an image as a background
+if image fails to load, background will be black instead.*/
+body {
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-align: center;
+  background: url("../img/background.png");
+  background-repeat: repeat;
+  background-color: black; 
+
+}
+
 /*NAVIGATION BAR STUFF*/
 /*Set navigation bar color and layout*/
 nav {
