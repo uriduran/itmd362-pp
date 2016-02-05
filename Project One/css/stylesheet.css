@@ -1,0 +1,35 @@
+/*NAVIGATION BAR STUFF*/
+/*Set navigation bar color and layout*/
+nav {
+  background-color: #B6B6B6;
+  border-radius: 4px;
+  display: block; 
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+  }
+/*Makes the html list be a block and controls the color change transition*/
+    nav ul li {
+      display: inline-block;
+      list-style-type: none;
+      
+      -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -ms-transition: all 0.2s;
+        -o-transition: all 0.2s;
+        transition: all 0.2s; 
+    }
+/*Change padding between menus and letter color */
+      nav > ul > li > a {
+        color: white;
+        display: block;
+        line-height: 40px;
+        padding: 0 30px;
+        text-decoration: none;
+      }
+/*Changes the color when mouse over */
+        nav > ul > li:hover {
+          background-color: rgb( 40, 44, 47 );
+        }
