@@ -120,3 +120,19 @@ letter-spacing: 1.42px;
 text-transform: uppercase; 
 padding: 0% 50% 0% 0%  
 }
+
+/*change the width and padding for when on a small screen*/
+@media screen and (max-width: 600px){
+    form {
+        background: #E05151;
+        width: 100%;
+    }
+    
+    input{
+       width: 90% 
+    }
+    label{
+        padding-right: 60%
+    }
+    
+}       
