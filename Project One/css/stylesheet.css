@@ -78,3 +78,9 @@ form {
   align-items: center;
   padding-bottom: 5%;
 }
+
+/*Made the input fields bigger, easier for mobile access*/
+.button {
+  height: 44px;
+  border: none;
+}
