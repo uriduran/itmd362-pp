@@ -1,5 +1,6 @@
+
 body{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif, "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
     color: black;
     background: white;
     text-align: center;
@@ -10,16 +11,19 @@ form{
     width: 60%;
     border-radius: 10px;
     min-width: 10%;
+    font-family: inherit;
+    
     
 }
 
 input {
    width: 40%;
-   
+   font-family: inherit;
 }
 
 label{
     display: block;
+    font-family: inherit;
     
 }
 
@@ -28,15 +32,18 @@ label{
     height: 30px;
     background: #B6B6B6;
     border-radius: 0px 0px 10px 10px;
+    font-family: inherit;
 }
 
 .box{
     height: 30px;
     font-size: 14px;
+    font-family: inherit;
 }
 
 textarea{
     width: 40%;
+    font-family: inherit;
 }
 
 @media screen and (max-width: 600px){
