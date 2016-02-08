@@ -38,3 +38,19 @@ label{
 textarea{
     width: 40%;
 }
+
+@media screen and (max-width: 600px){
+    form {
+        width: 100%;
+    }
+    
+    input{
+       width: 90% 
+    }
+    
+    textarea{
+    width: 90%;
+    }
+   
+    
+}
