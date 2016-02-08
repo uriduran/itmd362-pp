@@ -29,3 +29,12 @@ label{
     background: #B6B6B6;
     border-radius: 0px 0px 10px 10px;
 }
+
+.box{
+    height: 30px;
+    font-size: 14px;
+}
+
+textarea{
+    width: 40%;
+}
