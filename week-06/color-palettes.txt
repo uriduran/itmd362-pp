@@ -24,8 +24,11 @@ they're the most favorite "boys colors" and that's the general demographic for t
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename:Shades.PNG
+Explanation of your color choices: I think the stereotypical thing here to do is use shades of green. However, I thought that was
+a little too overdone and went with a light blue shade pallete. The reason for this is that you can use it against a white background
+and create a sense of freshness as people may associate the light blues to water and spring. There is also some darker blues in there 
+to be used for headings.
 
 * A complementary palette for a banking website.
 
