@@ -41,5 +41,8 @@ can be the yellow palette but once logged in it changes to a white-blue scheme s
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename:Triad.PNG
+Explanation of your color choices: I picked the basic colors: yellow, red, and blue. Since these are both bright colors with a lot of energy
+and they are also the colors that we first learn. The age of the children is not specified but I had in mind maybe primary school aged children.
+I attempted to make the colors a little bit softer, almost pastel like colors because I thought just having pure red, blue and yellow would be 
+a bit obnoxious. 
