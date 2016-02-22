@@ -32,8 +32,12 @@ to be used for headings.
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename:Complementary.PNG 
+    The UID is here: 20Q050kkVFUpM++oKWGc2tR2Je6
+Explanation of your color choices: For this scheme I went with a warm color inviting color like yellow. My thought process here
+is that this will create a welcoming color scheme that invites the user and makes the bank seem friendly. Then this also meant
+that it's complimentary color would be a blue palette. Which works well for sections where its a bit more serious. Maybe the bank portal
+can be the yellow palette but once logged in it changes to a white-blue scheme since its a bit more proffessional and serious.
 
 * A triadic palette for a website that offers games for children.
 
