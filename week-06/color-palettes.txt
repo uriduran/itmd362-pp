@@ -15,8 +15,12 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: Monochromatic.PNG
+Explanation of your color choices: I went with a red monochromatic color because I've seen a lot of gaming websites use it.
+It is probably due to the fact that Red + Black creates a sense of danger and and sleekness. Personally I would use a black
+background, with white text and then use the pallete for accenting and headings. My second choice would have been a blue pallette
+with maybe a white or black background. I think red and blue are the most common palettes for gaming and computer websites because
+they're the most favorite "boys colors" and that's the general demographic for those things.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
