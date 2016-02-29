@@ -32,8 +32,14 @@ think this goes well with the iOS guideline of using a lot of negative space. I 
 to draw the users attention and let them know there is also an information tab while also keeping the rest of the login UI white
 to allow the rest of the page to focus on its main job (the log in.)
 
-* HCI Guidline Two (URL): 
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1
+* How you implemented it in your sketch: I attempted to use the Depth guideline here in the top menu bar of the website.
+I have the pages set up to look like they are stacked on top of each other. This is very similar to how Chrome's tabs look in iOS.
+When switching between pages the one the user is currently on will change color and make the appereance of having been brough infront.
+I think this only works if there are two options. Any more and the UI could get messy. 
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://msdn.microsoft.com/library/windows/desktop/dn742462.aspx
+* How you implemented it in your sketch: Even though this link talks about Desktop applications I tried following their guidelines for simplicity.
+I think apple also does this very well. The first and main page of my redesigned log in screen has only the most necessary and basic elements: The log in fields.
+As it says on Microsofts site to attempt to eliminate the unecessary. That is why I split the log in page into two tabs. The first and landing page is the login and nothing more.
+If the user wishes to find other useful (debatable) information on the IIT page they can then choose on their own to visit that tab.
