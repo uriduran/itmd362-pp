@@ -21,10 +21,9 @@ line 11 column 7 - Warning: <figcaption> anchor "hank-and-fanny" already defined
 Info: Document content looks like HTML5
 Tidy found 5 warnings and 0 errors!
   
-  
-2 warnings, 0 errors were found!
-
 2. Fix as many errors as are listed by HTML Tidy, and re-run until there are no errors reported. HINT: Always fix the first error reported, then re-run tidy. Then, run the contents of `index.html` through the HTML validator. List any errors that the validator reports here:
+
+Kept reruning until all errors were fixed.
 
 3. Finally, fix the errors that are listed by the HTML validator, and commit the `index.html` file in its error-free state.
 
