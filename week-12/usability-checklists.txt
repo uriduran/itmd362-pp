@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://stayintech.com/info/UX
+2.http://www.expertusability.com/website-usability-checklist-and-usability-guide/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Quick site load-time is a must.
+2. Website must get to the point as soon as it loads. (aka Important information, point of website is easily viewable or accessible without tons of clicking.)
+3. Simple, easy navigation. No convoluted menus, etc.
+4. Unobstrusive ads, pop-ups.
+5. Fonts, colors, must be clean and make it easy to scan for information.
+6. Consistency across all pages. (Menus are in same place, fonts are standardized, etc.)
+7. Able to be viewed on mobile devices as flawlessly (or even better) than on desktop. 
+8. Content is readable without a stylesheet.
+9. If large website include search bar (looking at you my.iit.edu)
+10. Personalized features (currency, language, date format) based on users location.
